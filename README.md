@@ -1,1 +1,3 @@
 # first-day-repo
+
+First memo written...
